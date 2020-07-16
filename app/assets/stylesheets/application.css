@@ -72,7 +72,7 @@ main{
 	display:block;
 	color:gray;
 	font-size:12px;
-	overflow:hidden
+	overflow:hidden;
 	white-space:nowrap;
 	text-overflow:ellipsis;
 }
